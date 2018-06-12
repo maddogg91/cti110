@@ -18,3 +18,4 @@ print ("Your annual profit is: ", "$",annualProfit, "From the amount: ", "$",tot
 print ("Press enter key to quit")
 
 input()
+
